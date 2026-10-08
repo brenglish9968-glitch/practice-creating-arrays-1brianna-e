@@ -1,1 +1,0 @@
-# practice-creating-arrays-1brianna-e
